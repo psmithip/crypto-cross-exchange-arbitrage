@@ -1,0 +1,10 @@
+{
+    "INTERVAL": 60000,
+    "SYMBOL_LIST": ["AAVE", "ADA", "ALPHA", "BAL", "BAND", "BAT", "BCH", "BNB", 
+        "BTC", "COMP", "CRV", "CVC", "DOGE", "DOT", "ENJ", "ETH", "IOST", "KNC", 
+        "KSM", "LINK", "LTC", "MANA", "MKR", "NEAR", "OMG", "UNI", "USDC", "WAN", 
+        "XLM", "XRP", "YFI", "ZIL", "ZRX"],
+    "REQUEST_TIMEOUT": 60000,
+    "TOTAL_ROW": 10,
+    "P2P_SEQUENCE": 3
+}
